@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>二次メンの会</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+  </head>
+  <body>
+  <section class="section">
+    <div class="container">
+      <h1 class="title">
+      　二次メンの会へようこそ！
+      </h1>
+      <p class="subtitle">
+        このサイトは二次メンに関することをなんかいろいろやっていきます<strong>MADEINSASHIMI！</strong>
+      </p>
+<h1>メンバー紹介</h1>
+      <div class="card">
+        <div class="card-content">
+          <div class="content">
+          名前　幹事さん（仮名）部活動　放送部　幹事さんはとても真面目な人です。　
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+  <div class="card-content">
+    <div class="content">
+      名前　さしみさん（仮名）　部活動　放送部　さしみさんはおふざけ担当です。
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-content">
+    <div class="content">
+      名前　碧姉さん（仮名）　部活動　放送部　碧姉さんは突っ込み担当です。
+    </div>
+  </div>
+</div>
+
+      <footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      <strong>二次メンの会</strong> 別のサイトも観てね <a href=http://sashimi.renderforestsites.com/>二次メンのさしみの食べ方</a>
+      <img src="TSC.png" alt="写真" width="60" height="60">
+      <p>MADEINSASHIMI</p>制作　二次メン制作委員会</p>
+  </div>
+</footer>
+    </div>
+  </section>
+  </body>
+</html>
